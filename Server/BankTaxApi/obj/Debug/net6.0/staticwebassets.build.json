@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZSuVeMkO9DtxppaU/f2J4TqfQWWpzKBpRjAcknLSTFs=",
+  "Source": "BankTaxApi",
+  "BasePath": "_content/BankTaxApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
